@@ -1,0 +1,18 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Environments
+.env
+.venv
+venv/
+
+# Volumes
+files/archive/*.*
+files/*.*
+!files/archive/README.md
+!files/README.md

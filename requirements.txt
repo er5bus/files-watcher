@@ -1,0 +1,4 @@
+requests==2.25.1
+retry==0.9.2
+watchdog==2.1.2
+pysftp==0.2.9
